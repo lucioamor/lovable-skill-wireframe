@@ -21,6 +21,12 @@ The importable skill file is [`SKILL.md`](./SKILL.md).
 
 Example output: [`examples/WIREFRAME-nxlv.md`](./examples/WIREFRAME-nxlv.md)
 
+## Version
+
+Current version: [`v1.0.0`](./VERSION.md)
+
+The skill prints its installed version, this source repo URL, and a version status in its output: current, update available, or unverified.
+
 ## License
 
 [MIT](./LICENSE)
