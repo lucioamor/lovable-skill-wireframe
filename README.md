@@ -2,10 +2,6 @@
 
 `/wireframe` reads the active page of your Lovable app and creates a `WIREFRAME-{page}.md` file with that page's real text, layout, buttons, and interactive elements — written in plain language that anyone can read and share. Use `/wireframe all` to map every page into a single file.
 
-It is a community-built Lovable Skill by [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), Lovable Ambassador in Brazil.
-
-All skills: [lucioamor/lovable-skills](https://github.com/lucioamor/lovable-skills)
-
 ## Why this exists
 
 At some point, almost every builder needs to show someone else what their app looks like — a teammate, a client, a reviewer, or another AI tool.
