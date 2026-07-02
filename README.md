@@ -2,6 +2,10 @@
 
 `/wireframe` reads the active page of your Lovable app and creates a `WIREFRAME-{page}.md` file with that page's real text, layout, buttons, and interactive elements — written in plain language that anyone can read and share. Use `/wireframe all` to map every page into a single file.
 
+It is a community-built Lovable Skill by [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), Lovable Ambassador in Brazil.
+
+All skills: [lucioamor/lovable-skills](https://github.com/lucioamor/lovable-skills)
+
 ## Why this exists
 
 At some point, almost every builder needs to show someone else what their app looks like — a teammate, a client, a reviewer, or another AI tool.
@@ -103,8 +107,17 @@ For the full collection of skills, visit [lucioamor/lovable-skills](https://gith
 
 Use `/wireframe` first to give the debate a clear picture of what the app currently looks like.
 
-## Author
+## License
 
-Created and maintained by [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), Lovable Ambassador in Brazil.
+This skill is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/) (`CC BY 4.0`).
 
-This is a community-built skill for builders who want their Lovable workflow to be more structured, easier to share, and easier to review.
+That means you may copy, share, adapt, remix, publish, and use it, including commercially, as long as you give appropriate credit to [Lucio Amorim](https://www.linkedin.com/in/lucioamorim), link to the license, and indicate whether you made changes.
+
+In plain terms: you can use `/wireframe` freely, but attribution is required.
+
+## Authorship and maintenance
+
+This project was created by [Lucio Amorim](https://linkedin.com/in/lucioamorim), Lovable Ambassador.
+
+When reusing, redistributing, or citing this work, keep the attribution credits and include a link to this repository.
+
